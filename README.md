@@ -3,3 +3,5 @@
 - Git e GitHub - Contribuição Colaborativa e Resolução de Conflitos.
 - Primeiro commit 
 - Primeiro commit branch dina2
+- Primeiro commit branch Deigela1
+- Primeiro commit branch Deigela2
